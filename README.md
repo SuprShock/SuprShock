@@ -58,7 +58,7 @@
  
 
 
-<p align="center"><strong>Fico feliz que chegou ate aqui!!!</strong><br>Deixe estrelas para contribuir com os repositórios.</p>
+<p align="center"><strong>Fico feliz que chegou até aqui!!!</strong><br>Deixe estrelas para contribuir com os repositórios.</p>
  
  
   
