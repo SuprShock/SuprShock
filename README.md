@@ -2,7 +2,7 @@
 <h1>Olá!, Eu sou o Marcos 🇧🇷👋</h1>
 <p>Seja muito bem vindo ao meu repositório git, fique a vontade com os códigos públicos.<br>
 <h2 align="center"><strong>Sobre mim</strong></h2>
-<p>Estou me graduando em Tecnólogo de Analise e Desenvolvimento de Sistemas no Instituto Federal de São Carlos🧑‍🎓. Estou no caminho de ser desenvolvedor utilizando principalmente React, Javascript, TypeScript e Nodejs.<p>
+<p>Estou me graduando como Tecnólogo em Analise e Desenvolvimento de Sistemas no Instituto Federal de São Carlos🧑‍🎓. Estou no caminho de ser desenvolvedor utilizando principalmente React, Javascript, TypeScript e Nodejs.<p>
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/supr_shock/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suprshock/)
