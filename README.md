@@ -38,8 +38,6 @@
  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
  <h3 align="center" ## >Habilidades em Desenvolvimento</h3><br>
 
@@ -58,7 +56,7 @@
  
 
 
-<p align="center"><strong>Fico feliz que chegou até aqui!!!<br>Deixe estrelas para contribuir com os repositórios.</strong></p>
+<p align="center"><strong>Fico muito feliz que chegou até aqui!!!<br>Deixe estrelas para contribuir com os repositórios.</strong></p>
  
  
   
