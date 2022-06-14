@@ -2,7 +2,7 @@
 <h1>Olá!, Eu sou o Marcos 🇧🇷👋</h1>
 <p>Seja muito bem vindo ao meu repositório git, fique a vontade com os códigos públicos.<br>
 <h2 align="center"><strong>Sobre mim</strong></h2>
-<p>Estou me graduando como Tecnólogo em Analise e Desenvolvimento de Sistemas no Instituto Federal de São Carlos🧑‍🎓. Estou no caminho de ser desenvolvedor utilizando principalmente React, Javascript, TypeScript e Nodejs.<p>
+<p>Estou me graduando em Tecnologia em Analise e Desenvolvimento de Sistemas no Instituto Federal de São Carlos🧑‍🎓. Estou no caminho de ser desenvolvedor utilizando principalmente React, Javascript, TypeScript e Nodejs.<p>
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/supr_shock/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suprshock/)
@@ -20,14 +20,12 @@
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![cSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
- ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
- ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
- ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
- ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+ 
+ 
+
 
  <h3 align="center" ## >Principais Habilidades</h3><br>
 
@@ -56,7 +54,7 @@
  
 
 
-<p align="center"><strong>Fico muito feliz que chegou até aqui!!!<br>Deixe estrelas para contribuir com os repositórios.</strong></p>
+
  
  
   
