@@ -1,6 +1,6 @@
 
 <h1>Olá!, Eu sou o Marcos 🇧🇷👋</h1>
-<p>Seja muito bem vindo ao meu repositório git, fique a vontade com os códigos públicos.<br>
+<p>Seja muito bem vindo ao meu repositório github, fique a vontade com os códigos públicos.<br>
 <h2 align="center"><strong>Sobre mim</strong></h2>
 <p>Estou me graduando em Tecnologia em Analise e Desenvolvimento de Sistemas no Instituto Federal de São Carlos🧑‍🎓. Estou no caminho de ser desenvolvedor utilizando principalmente React, Javascript, TypeScript e Nodejs.<p>
   
