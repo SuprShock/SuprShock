@@ -4,7 +4,7 @@
 <h2 align="center"><strong>Sobre mim</strong></h2>
 <p>Estou me graduando em Tecnologia em Analise e Desenvolvimento de Sistemas no Instituto Federal de São Carlos🧑‍🎓. Estou no caminho de ser desenvolvedor utilizando principalmente React, Javascript, TypeScript e Nodejs.<p>
   
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/supr_shock/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eosuprhock/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suprshock/)
   [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SuprShock)
   <h2>Habilidades</h2>
