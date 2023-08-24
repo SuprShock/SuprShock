@@ -9,7 +9,7 @@
   [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SuprShock)
   <h2>Habilidades</h2>
   
- <h3 align="center" ## >Linguagens que conheço e tive expêriencia:</h3>
+ <h3 align="center" ## >Linguagens com expêriencia:</h3>
 
  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
